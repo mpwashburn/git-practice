@@ -2,6 +2,10 @@ code inside src.txt
 
 further code added
 
+<<<<<<< HEAD
 correct code added
 
 more hopefully working code added
+=======
+correct code added
+>>>>>>> update-src
